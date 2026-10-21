@@ -2,11 +2,10 @@
 
 ## Malware Traffic Analysis Report: Remcos RAT Command and Control
 
-**Report ID:** MTA-2025-002
-**Name:** Isemin Baruch
-**Date:** 19th October 2026
-**Tool:** Snort (IDS mode) + Wireshark
-**Dataset:** Remcos RAT PCAP (from Malware-Traffic-Analysis.net)
+- **Report ID:** MTA-2025-002
+- **Date:** 19th October 2026
+- **Tool:** Snort (IDS mode) + Wireshark
+- **Dataset:** Remcos RAT PCAP (from Malware-Traffic-Analysis.net)
 
 ---
 
